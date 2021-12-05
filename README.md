@@ -1,6 +1,6 @@
 # MAGD 150
 
- ## This is my repository example for MAGD 150
+ ## This is my repository for MAGD 150
 
 [Lab 01 example](https://github.com/S-Reid-1214/MAGD150-PROJECTS/tree/gh-pages/f21magd150lab01_reid)
   This lab was to learn how to create basic shapes in a greyscale fashion
