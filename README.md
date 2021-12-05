@@ -4,3 +4,15 @@
   
   
  [This is a link to the ___ example.] Explaination of what it can do
+
+
+[Lab 01 example] (https://github.com/S-Reid-1214/MAGD150-PROJECTS/tree/gh-pages/f21magd150lab01_reid)
+  This lab was to learn how to create basic shapes in a greyscale fashion
+  
+[Lab 04 example] (https://github.com/S-Reid-1214/MAGD150-PROJECTS/tree/gh-pages/f21magd150lab04_reid)
+  This project presents a slice of pizza where pepperoni can be added by clicking or pressing the space bar. It also loops the square slice down the middle of it.
+  
+[Lab 06 example] (https://github.com/S-Reid-1214/MAGD150-PROJECTS/tree/gh-pages/f21magd150lab06_REIDzip)
+  With this assignment I recreated the frogger sprite by using the rotate feature.
+  
+[Lab 08 example] (
