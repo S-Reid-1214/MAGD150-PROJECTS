@@ -15,4 +15,8 @@
 [Lab 06 example] (https://github.com/S-Reid-1214/MAGD150-PROJECTS/tree/gh-pages/f21magd150lab06_REIDzip)
   With this assignment I recreated the frogger sprite by using the rotate feature.
   
-[Lab 08 example] (
+[Lab 08 example] (https://github.com/S-Reid-1214/MAGD150-PROJECTS/tree/gh-pages/f21magd150_lab08_REID)
+  This is a poster for a movie I titled "Velocidoctor" after the world renowned "Velocipastor".
+  
+[Lab 09 example] (https://github.com/S-Reid-1214/MAGD150-PROJECTS/tree/gh-pages/f21magd150lab09_REID)
+  The theme for this lab being "mirrors" I took it upon myself to create a funhouse mirror with a very fun Kevin Macleod song playing as you play with the mirror.
