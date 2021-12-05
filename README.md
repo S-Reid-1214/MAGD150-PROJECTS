@@ -6,7 +6,7 @@
  [This is a link to the ___ example.] Explaination of what it can do
 
 
-[Lab 01 example] (https://github.com/S-Reid-1214/MAGD150-PROJECTS/tree/gh-pages/f21magd150lab01_reid)
+[Lab 01 example (https://github.com/S-Reid-1214/MAGD150-PROJECTS/tree/gh-pages/f21magd150lab01_reid)]
   This lab was to learn how to create basic shapes in a greyscale fashion
   
 [Lab 04 example] (https://github.com/S-Reid-1214/MAGD150-PROJECTS/tree/gh-pages/f21magd150lab04_reid)
